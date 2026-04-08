@@ -302,3 +302,10 @@ a { text-decoration: none; color: inherit; }
     object-fit: contain;
     display: inline-block;
 }
+
+.github-mini-icon {
+    width: 16px;
+    height: 16px;
+    object-fit: contain;
+    display: inline-block;
+}

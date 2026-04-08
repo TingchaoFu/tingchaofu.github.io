@@ -242,7 +242,7 @@ document.getElementById('publications').innerHTML = `
                         </a>
                         ${hasCode ? `
                         <a href="${pub.codeUrl}" class="btn btn-secondary" target="_blank">
-                            <i data-lucide="github" class="icon-mr"></i> Code
+                            <img src="paper_image/github.png" alt="GitHub" class="icon-mr github-mini-icon"> Code
                         </a>
                         ` : ""}
                         <span class="badge badge-gray">${pub.tag}</span>
@@ -253,7 +253,6 @@ document.getElementById('publications').innerHTML = `
         `}).join('')}
     </div>
 `;
-
 
 document.getElementById('academic_service').innerHTML = `
     <div style="margin-top:40px;">
