@@ -87,7 +87,7 @@ const siteData = {
             year: "2026",
             tag: "Misinformation Detection",
             status: "#",
-            image: "paper_image/lfx_AAAI_2026.png",
+            image: "paper_image/lfx_aaai_2026.png",
             imageTag: "AAAI",
             paperUrl: "https://arxiv.org/abs/2508.12711",
             codeUrl: "https://github.com/fanxiao15/DriftBench"
