@@ -12,7 +12,7 @@ const siteData = {
         location: "Kunming, China",
         email: "futingchao@stu.ynu.edu.cn",
         scholarUrl: "https://scholar.google.com/citations?user=F1ES5loAAAAJ&hl=zh-CN",
-        githubUrl: "#"
+        githubUrl: "https://github.com/TingchaoFu"
     },
     navItems: ["About", "Research", "Publications", "Projects", "CV", "Contact"],
     about: {
@@ -198,7 +198,10 @@ document.getElementById('sidebar').innerHTML = `
                 <img src="paper_image/scholar.png" alt="Google Scholar" class="scholar-icon">
                 Scholar
             </a>
-            <a href="mailto:${siteData.personal.email}" class="btn btn-secondary"><i data-lucide="mail" class="icon-mr"></i> Contact</a>
+            <a href="${siteData.personal.githubUrl}" target="_blank" class="btn btn-secondary scholar-btn">
+                <img src="paper_image/github.png" alt="GitHub" class="scholar-icon">
+                GitHub
+            </a>
         </div>
     </div>
 `;
