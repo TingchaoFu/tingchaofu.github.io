@@ -42,7 +42,7 @@ const siteData = {
             image: "paper_image/decode.png",
             imageTag: "ACL",
             paperUrl: "#",
-            codeUrl: "#"
+            codeUrl: "https://github.com/TingchaoFu/DECODE"
         },
         {
             title: "What's Left Unsaid? Detecting and Correcting Misleading Omissions in Multimodal News Previews",
