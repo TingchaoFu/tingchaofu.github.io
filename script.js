@@ -70,9 +70,9 @@ const siteData = {
             ccf: "CCF-A",
             year: "2026",
             tag: "Adversarial Attack",
-            status: "Under Revision",
+            status: "#",
             image: "paper_image/tmm.png",
-            imageTag: "Preprint",
+            imageTag: "TMM",
             paperUrl: "#",
             codeUrl: "#"
         },
@@ -152,7 +152,7 @@ const siteData = {
     academic_service: {
         heading: "🎓Academic Service",
         items: [
-            "AAAI 2026 Reviewer",
+            "NeurIPS, ACM MM, AAAI Reviewer",
             "IEEE TIFS Reviewer",
         ]
     },
