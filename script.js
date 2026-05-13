@@ -61,7 +61,7 @@ const siteData = {
             title: "Say What I Want! Prompt-Agnostic Adversarial Attacks on Large Vision Language Models",
             authors: `
 
-    <u>Tingchao Fu</u>, Renyang Liu, Ziyao Liu, Peiyuan Si, Fanxiao Li, Jinhong Zhang, Wei Zhou*
+    <u>Tingchao Fu</u>, Renyang Liu*, Ziyao Liu, Peiyuan Si, Fanxiao Li, Jinhong Zhang, Wei Zhou*
             `,
             venue: "IEEE Transactions on Multimedia",
             ccf: "CCF-A",
@@ -70,8 +70,8 @@ const siteData = {
             status: "#",
             image: "paper_image/tmm.png",
             imageTag: "TMM",
-            paperUrl: "#",
-            codeUrl: "#"
+            paperUrl: "https://ryliu68.github.io/assets/pdf/PAA.pdf",
+            codeUrl: "https://github.com/TingchaoFu/PAA"
         },
         {
             title: "Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection",
