@@ -42,22 +42,6 @@ const siteData = {
             codeUrl: "https://github.com/TingchaoFu/DECODE"
         },
         {
-            title: "What's Left Unsaid? Detecting and Correcting Misleading Omissions in Multimodal News Previews",
-            authors: `
-
-    Fanxiao Li, Jiaying Wu, <u>Tingchao Fu</u>, Dayang Li, Herun Wan, Wei Zhou*, Min-Yen Kan
-            `,
-            venue: "ACL",
-            ccf: "CCF-A",
-            year: "2026",
-            tag: "Misinformation Detection",
-            status: "#",
-            image: "paper_image/lfx_acl_2026.png",
-            imageTag: "ACL",
-            paperUrl: "https://arxiv.org/abs/2601.05563",
-            codeUrl: "#"
-        },
-        {
             title: "Say What I Want! Prompt-Agnostic Adversarial Attacks on Large Vision Language Models",
             authors: `
 
@@ -72,6 +56,22 @@ const siteData = {
             imageTag: "TMM",
             paperUrl: "https://ryliu68.github.io/assets/pdf/PAA.pdf",
             codeUrl: "https://github.com/TingchaoFu/PAA"
+        },
+        {
+            title: "What's Left Unsaid? Detecting and Correcting Misleading Omissions in Multimodal News Previews",
+            authors: `
+
+    Fanxiao Li, Jiaying Wu, <u>Tingchao Fu</u>, Dayang Li, Herun Wan, Wei Zhou*, Min-Yen Kan
+            `,
+            venue: "ACL",
+            ccf: "CCF-A",
+            year: "2026",
+            tag: "Misinformation Detection",
+            status: "#",
+            image: "paper_image/lfx_acl_2026.png",
+            imageTag: "ACL",
+            paperUrl: "https://arxiv.org/abs/2601.05563",
+            codeUrl: "#"
         },
         {
             title: "Drifting Away from Truth: GenAI-Driven News Diversity Challenges LVLM-Based Misinformation Detection",
