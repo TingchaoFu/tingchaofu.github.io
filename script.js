@@ -141,6 +141,7 @@ const siteData = {
     awards: {
         heading: "🏆Honors and Awards",
         items: [
+            "2026.05, China Scholarship Council (CSC) Scholarship",
             "2025.06, Outstanding Graduate of Yunnan University",
             "2024.06, CVPR Workshop challenge: Robustness of Foundation ModelsBlack-box Adversarial Attacks on Vision Foundation Models, 8th place",
             "2023.10, Huawei Ascend AI Innovation Competition, Gold Award,",
