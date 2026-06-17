@@ -38,7 +38,7 @@ const siteData = {
             status: "#",
             image: "paper_image/decode.png",
             imageTag: "ACL",
-            paperUrl: "https://github.com/TingchaoFu/DECODE/blob/main/paper.pdf",
+            paperUrl: "https://arxiv.org/abs/2606.17057",
             codeUrl: "https://github.com/TingchaoFu/DECODE"
         },
         {
