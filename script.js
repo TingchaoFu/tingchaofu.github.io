@@ -151,7 +151,7 @@ const siteData = {
         heading: "🎓Academic Service",
         items: [
             "NeurIPS, ACM MM, AAAI Reviewer",
-            "IEEE TIFS Reviewer",
+            "IEEE TIFS, IEEE SPL Reviewer",
         ]
     },
     education: {
