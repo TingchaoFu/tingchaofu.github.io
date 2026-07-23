@@ -14,7 +14,8 @@ const siteData = {
     navItems: ["About", "Research", "Publications", "Projects", "CV", "Contact"],
     about: {
         heading: "👋Welcome to Tingchao's Homepage!",
-        description: `I am currently pursuing my Ph.D. at <a href="https://www.ynu.edu.cn/" target="_blank" style="color:#2563eb;">Yunnan University</a>, supervised by <a href="http://www.ymi.ynu.edu.cn/info/1033/1152.htm" target="_blank" style="color:#2563eb;">Prof. Wei Zhou</a>. Carried out collaborative research in the field of trustworthy artificial intelligence with <a href="https://ryliu68.github.io/" target="_blank" style="color:#2563eb;">Ph.D Renyang Liu</a> and <a href="https://fanxiao15.github.io/" target="_blank" style="color:#2563eb;">Ph.D Fanxiao Li</a>.`
+        description: `I am currently pursuing my Ph.D. at <a href="https://www.ynu.edu.cn/" target="_blank" style="color:#2563eb;">Yunnan University</a>, supervised by <a href="http://www.ymi.ynu.edu.cn/info/1033/1152.htm" target="_blank" style="color:#2563eb;">Prof. Wei Zhou</a>. Carried out collaborative research in the field of trustworthy artificial intelligence with <a href="https://ryliu68.github.io/" target="_blank" style="color:#2563eb;">Ph.D Renyang Liu</a> and <a href="https://fanxiao15.github.io/" target="_blank" style="color:#2563eb;">Ph.D Fanxiao Li</a>. I am also a Visiting Ph.D. Student at the National University of Singapore (NUS), supported by CSC scholarship (Jul 2026 - Jul 2027), working with 
+<a href="https://scholar.google.com/citations?user=_wsommYAAAAJ&hl=en">Prof. See-Kiong Ng</a>.`
     },
     researchAreas: {
         heading: "🔬Research Interests",
