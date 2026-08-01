@@ -55,8 +55,7 @@ const siteData = {
             status: "#",
             image: "paper_image/tmm.png",
             imageTag: "TMM",
-            paperUrl: "https://ryliu68.github.io/assets/pdf/PAA.pdf",
-            codeUrl: "https://github.com/TingchaoFu/PAA"
+            paperUrl: "https://ieeexplore.ieee.org/document/11631863"
         },
         {
             title: "What's Left Unsaid? Detecting and Correcting Misleading Omissions in Multimodal News Previews",
