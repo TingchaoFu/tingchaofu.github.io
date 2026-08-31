@@ -58,6 +58,22 @@ const siteData = {
             paperUrl: "https://ieeexplore.ieee.org/document/11631863"
         },
         {
+            title: "FlowSteer: Prompt-Only Workflow Steering Exposes Planning-Time Vulnerabilities in Multi-Agent LLM Systems",
+            authors: `
+
+    Fanxiao Li, Jiaying Wu, <u>Tingchao Fu</u>, Natasha Jaques, Wei Zhou, Min-Yen Kan
+            `,
+            venue: "Preprint",
+            ccf: "#",
+            year: "2026",
+            tag: "Agent Security",
+            status: "#",
+            image: "paper_image/flowsteer.png",
+            imageTag: "Preprint",
+            paperUrl: "https://arxiv.org/pdf/2605.11514",
+            codeUrl: "#"
+        },
+        {
             title: "What's Left Unsaid? Detecting and Correcting Misleading Omissions in Multimodal News Previews",
             authors: `
 
@@ -88,6 +104,22 @@ const siteData = {
             imageTag: "AAAI",
             paperUrl: "https://arxiv.org/abs/2508.12711",
             codeUrl: "https://github.com/fanxiao15/DriftBench"
+        },
+        {
+            title: "DPSA: Deception Pattern Learning and Sentiment-Aware Enhancement for Unseen Misinformation Detection",
+            authors: `
+
+    Yunyun Dong, Jinfeng Luo, <u>Tingchao Fu*</u>,, Fanxiao Li, Dayang Li, Viradeth Sixanonh, Wei Zhou*
+            `,
+            venue: "DASFAA",
+            ccf: "CCF-B",
+            year: "2026",
+            tag: "Misinformation Detection",
+            status: "#",
+            image: "paper_image/DASFAA.png",
+            imageTag: "DASFAA",
+            paperUrl: "https://link.springer.com/chapter/10.1007/978-981-92-0375-8_37",
+            codeUrl: "#"
         },
         {
             title: "Imperceptible text steganography based on group chat",
