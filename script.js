@@ -64,7 +64,7 @@ const siteData = {
     Fanxiao Li, Jiaying Wu, <u>Tingchao Fu</u>, Natasha Jaques, Wei Zhou, Min-Yen Kan
             `,
             venue: "Preprint",
-            ccf: "#",
+            ccf: "arXiv",
             year: "2026",
             tag: "Agent Security",
             status: "#",
@@ -182,8 +182,8 @@ const siteData = {
     academic_service: {
         heading: "🎓Academic Service",
         items: [
-            "NeurIPS, ACM MM, AAAI Reviewer",
-            "IEEE TIFS, IEEE SPL Reviewer",
+            "NeurIPS, ACM MM, AAAI, ARR Reviewer",
+            "IEEE TIFS, IEEE TMM, IEEE SPL Reviewer",
         ]
     },
     education: {
