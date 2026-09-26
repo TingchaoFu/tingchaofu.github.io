@@ -13,7 +13,7 @@ const siteData = {
     },
     navItems: ["About", "Research", "Publications", "Projects", "CV", "Contact"],
     about: {
-        heading: "👋Welcome to Tingchao's Homepage!",
+        heading: "👋 Welcome to Tingchao's Homepage!",
         description: `I am currently pursuing my Ph.D. at <a href="https://www.ynu.edu.cn/" target="_blank" style="color:#2563eb;">Yunnan University</a>, supervised by <a href="http://www.ymi.ynu.edu.cn/info/1033/1152.htm" target="_blank" style="color:#2563eb;">Prof. Wei Zhou</a>. Carried out collaborative research in the field of trustworthy artificial intelligence with <a href="https://ryliu68.github.io/" target="_blank" style="color:#2563eb;">Ph.D Renyang Liu</a> and <a href="https://fanxiao15.github.io/" target="_blank" style="color:#2563eb;">Ph.D Fanxiao Li</a>. I am also a Visiting Ph.D. Student at the <a href="https://ids.nus.edu.sg/" target="_blank" style="color:#2563eb;">National University of Singapore (NUS)</a>, supported by CSC scholarship (Jul 2026 - Jul 2027), working with 
 <a href="https://scholar.google.com/citations?user=_wsommYAAAAJ&hl=en" target="_blank" style="color:#2563eb;">Prof. See-Kiong Ng</a>.`
     },
@@ -63,13 +63,13 @@ const siteData = {
 
     Fanxiao Li, Jiaying Wu, <u>Tingchao Fu</u>, Natasha Jaques, Wei Zhou, Min-Yen Kan
             `,
-            venue: "Preprint",
-            ccf: "arXiv",
+            venue: "NeurIPS 2026",
+            ccf: "CCF-A",
             year: "2026",
             tag: "Agent Security",
             status: "#",
             image: "paper_image/flowsteer.png",
-            imageTag: "Preprint",
+            imageTag: "NeurIPS",
             paperUrl: "https://arxiv.org/pdf/2605.11514",
             codeUrl: "#"
         },
@@ -171,7 +171,7 @@ const siteData = {
         },
     ],
     awards: {
-        heading: "🏆Honors and Awards",
+        heading: "🏆 Honors and Awards",
         items: [
             "2026.05, China Scholarship Council (CSC) Scholarship",
             "2025.06, Outstanding Graduate of Yunnan University",
@@ -180,14 +180,14 @@ const siteData = {
         ]
     },
     academic_service: {
-        heading: "🎓Academic Service",
+        heading: "🎓 Academic Service",
         items: [
             "NeurIPS, ACM MM, AAAI, ARR Reviewer",
             "IEEE TIFS, IEEE TMM, IEEE SPL Reviewer",
         ]
     },
     education: {
-        heading: "🏫Education",
+        heading: "🏫 Education",
         items: [
             "2025.09 - Present, Ph.D. in Computer Science and Technology, Yunnan University",
             "2022.09 - 2025.06, M.E. in Software Engineering, Yunnan University",
@@ -196,19 +196,6 @@ const siteData = {
     },
 };
 
-// ==========================================
-// 2. 渲染引擎 (将数据转化为 HTML)
-// ==========================================
-
-// 渲染 Header
-// document.getElementById('nav-name').innerText = siteData.personal.name;
-// document.getElementById('nav-title').innerText = siteData.personal.title;
-// const navMenu = document.getElementById('nav-menu');
-// siteData.navItems.forEach(item => {
-//     navMenu.innerHTML += `<a href="#${item.toLowerCase()}">${item}</a>`;
-// });
-
-// 渲染 Sidebar
 document.getElementById('sidebar').innerHTML = `
     <div class="card">
         <div class="avatar-wrap">
@@ -247,7 +234,6 @@ document.getElementById('research').innerHTML = `
     </div>
 `;
 
-// 渲染 Publications
 document.getElementById('publications').innerHTML = `
     <h2 class="about-title">💻 Publications & Code</h2>
     <div class="pub-list">
