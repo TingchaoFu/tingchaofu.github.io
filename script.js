@@ -63,7 +63,7 @@ const siteData = {
 
     Fanxiao Li, Jiaying Wu, <u>Tingchao Fu</u>, Natasha Jaques, Wei Zhou, Min-Yen Kan
             `,
-            venue: "NeurIPS 2026",
+            venue: "NeurIPS",
             ccf: "CCF-A",
             year: "2026",
             tag: "Agent Security",
